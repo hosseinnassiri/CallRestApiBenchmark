@@ -1,0 +1,17 @@
+{
+  "name": "nodehttpclientbenchmark",
+  "version": "1.0.0",
+  "description": "To run a benchmark for calling REST Api from NodeJS.\r Dataset is from free JSONPlaceholder:\r https://jsonplaceholder.typicode.com/photos",
+  "main": "app.js",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "benchmark-json-reporter": "^1.1.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hossein",
+  "license": "ISC"
+}
